@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title>Micromouse Project</title>
+	</head>
+
+	<body>
+
+	<header>
+		<?php include 'header.php'; ?>
+	</header>
+
+	<nav>
+		<?php include 'menu.php'; ?>
+	</nav>
+
+	<section>
+		<h2>Micromouse</h2>
+		<p>
+			<dfn>
+				A micromouse is a computer controlled autonomous mobile robot which can find a predetermined destination when placed in an unknown maze&period;<br>
+			</dfn>
+		</p>
+		<img src="mouse.jpg" alt="micromouse" style="width:1175px;height:881px">
+		<video width="320" height="240">
+					<source src="MicromouseTest.mp4" type="video/mp4">
+		</video>
+	</section>
+				
+	</body>
+
+</html>

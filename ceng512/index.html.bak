@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title>Micromouse Project</title>
+	</head>
+
+	<header>
+		<?php include 'header.php';?>
+	</header>
+
+</html>
